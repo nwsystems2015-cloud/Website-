@@ -123,3 +123,5 @@ footer .logo img{height:46px}
 .card .body{display:flex;flex-direction:column;flex:1}
 .more{margin-top:auto;font-weight:700}
 @media(max-width:640px){.topbar .wrap>span:first-child{display:none}}
+.trust{background:#fff;border-bottom:1px solid #e3e8f1}
+.trust .wrap{display:flex;flex-wrap:wrap;justify-content:space-around;gap:14px 28px;padding:20px;font-weight:700;font-size:15px}
