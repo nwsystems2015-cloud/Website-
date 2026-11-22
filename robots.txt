@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nw-systems.co.uk/sitemap.xml
